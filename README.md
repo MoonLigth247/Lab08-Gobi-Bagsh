@@ -5,8 +5,8 @@
 
 ## Орчны мэдээлэл
  
-![Java Version](Screenshots/java-version.png)
-![Maven Version](Screenshots/maven-version.png)
+![Java Version](Screenshot/java-version.png)
+![Maven Version](Screenshot/maven-version.png)
 
 
 ## Тестийн тоо
